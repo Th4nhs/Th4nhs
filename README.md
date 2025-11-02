@@ -28,11 +28,5 @@ C++ | Java | Linux | Git | VS Code
 
 ---
 
-## ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Th4nhs&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th4nhs&layout=compact&theme=tokyonight)
-
----
-
 ## 💬 Fun fact
 I love Linux, minimal setups, and learning new programming languages 😎
