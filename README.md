@@ -3,7 +3,7 @@
 🎓 I'm currently learning **C++**, **OOP**, and **Data Structures & Algorithms (DSA)**  
 💻 Working on a small **English learning app** using C++  
 🌱 Next goal: Learn **Java** for DSA and backend  
-📫 Reach me at: [your_email@gmail.com](mailto:your_email@gmail.com)
+📫 Reach me at: [phicongthanh2007@gmail.com](mailto:your_email@gmail.com)
 
 ---
 
@@ -15,9 +15,9 @@ C++ | Java | Linux | Git | VS Code
 ## 🚀 Projects
 | Name | Description | Tech |
 |------|--------------|------|
-| [English Vocabulary App](https://github.com/Th4nhs/english_app) | Learn & test vocabulary | C++ |
-| [File Manager CLI](https://github.com/Th4nhs/file_manager) | Manage files on Linux terminal | C++ |
-| [DSA Practice](https://github.com/Th4nhs/dsa_java) | Data Structures & Algorithms exercises | Java |
+| [English Vocabulary App](...) | Learn & test vocabulary | C++ |
+| [File Manager CLI](...) | Manage files on Linux terminal | C++ |
+| [DSA Practice](...) | Data Structures & Algorithms exercises | Java |
 
 ---
 
